@@ -1,0 +1,28 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+You can do all usual things. 
+
+Can add text.
+
+Website is example coming from [P8105](https://p8105.com/). We're making websites today. LErn more about this site [here](about.html).
+
+About paragraph can be included here.
+
+Can link to [google](https://www.google.com/)
+
+Plots are here [plots](plots.html).
+
+
+heres a picture of ted
+![](images/ted.jpg)
